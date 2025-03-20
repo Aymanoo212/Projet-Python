@@ -1,2 +1,3 @@
 # Projet-Python
-Système de Réservation de Cinéma
+theme : Système de Réservation de Cinéma
+Aymane Akarbich - Yassir Addaoui - 
