@@ -1,4 +1,4 @@
-# Projet-Python 3iir/Grp20
+# Projet-Python-3iir/Grp20
 Thème : Système de Réservation de Cinéma
 
 **Auteurs** :
