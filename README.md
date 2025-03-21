@@ -1,7 +1,7 @@
-# Projet-Python
+# Projet-Python 3iir/Grp20
 Thème : Système de Réservation de Cinéma
 
-**Auteurs 3iir/Grp20** :
+**Auteurs** :
 Aymane Akarbich -
 Yassir Addaoui -
 Mouhieddine Bouktib 
