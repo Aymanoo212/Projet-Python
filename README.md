@@ -24,7 +24,7 @@ Il fournit également aux **administrateurs** une interface pour :
 
 ---
 
-## 📂 Cahier des Charges
+## 📄 Cahier des Charges
 👉 [Voir le Cahier des Charges](./Document/CahierdesCharges.pdf)
 
 ---
