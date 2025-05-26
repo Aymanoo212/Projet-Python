@@ -24,14 +24,19 @@ Il fournit également aux **administrateurs** une interface pour :
 
 ---
 
+## 📂 Cahier des Charges
+👉 [Voir le Cahier des Charges](./Document/CahierdesCharges.pdf.pptx)
+
+---
+
 ## 📂 Présentation
-👉 [Lien vers la présentation PowerPoint](./Presentation(Django).pptx)
+👉 [Lien vers la présentation PowerPoint](./Document/Presentation(Django).pptx)
 
 ---
 
 ## 📄 Rapport du projet
 
-👉 [Voir le rapport complet](./ProjetPython.pdf)
+👉 [Voir le rapport complet](./Document/ProjetPython.pdf)
 
 ---
 
