@@ -43,7 +43,7 @@ Il fournit également aux **administrateurs** une interface pour :
 ## 🚀 Technologies utilisées
 - Python
 - Django
-- HTML/CSS
+- HTML/CSS/JS
 - Bootstrap
 
 ---
